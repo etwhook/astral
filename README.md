@@ -12,5 +12,4 @@ Here Are Examples Of Using **Astral**.
 
 ```
 $ ./astral.exe -n notepad.exe -d C:\Users\Etwhook\Desktop\test.dll
-
 ```
